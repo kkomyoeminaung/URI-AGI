@@ -19,4 +19,4 @@ URI-AGI is a groundbreaking framework that bridges ancient causal philosophy (**
 ## 📖 Scientific Abstract
 URI proposes that dynamic relations form the ontological foundation of reality. By mapping the 24 fundamental causal conditions onto $SU(5)$ generators, we construct a unified framework linking black hole thermodynamics and AGI causal reasoning.
 ## License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under Cc by Nc 4.0 international. - see the [LICENSE](LICENSE) file for details.
